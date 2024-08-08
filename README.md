@@ -11,12 +11,10 @@
 
 <h3 align="center">Contact with me:</h3>
 <p align="center">
-<!-- <a href="https://linkedin.com/in/elbekgiyozov" target="_blank">linkedIn</a> | 
-<a href="https://fb.com/elbekgiyozov" target="_blank">facebook</a> | 
-<a href="https://instagram.com/elbekgiyozov" target="_blank">instagram</a> |
-<a href="https://www.youtube.com/c/elbekgiyozov" target="_blank">you tube</a> |
-<a href="https://t.me/atom_017" target="_blank">telegram</a> | 
-<a href="https://t.me/atom_webdev" target="_blank">telegram channel</a> -->
+<a href="https://www.thedavron.uz" target="_blank" > My site </a> |
+<a href="https://www.linkedin.com/in/davronbek-mamarasulov-bb583a308" target="_blank">linkedIn</a> | 
+<a href="https://instagram.com/_davron_702" target="_blank">instagram</a> |
+<a href="https://t.me/davron_702" target="_blank">telegram</a> 
 
 </p>
 
