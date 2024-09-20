@@ -19,5 +19,5 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> HTML | CSS | SCSS | Bootstrap | TailwindCSS | JavaScript | React.js (learning) </p>
+<p align="center"> HTML | CSS | SCSS | Bootstrap | TailwindCSS | JavaScript | React.js || TypeScript || NextJs || NodeJs(learning) </p>
 
